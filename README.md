@@ -14,7 +14,7 @@ You can view and interact with the live dashboard here:
 
 **[Link to the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGU1NGRkMDQtMTgyMy00ZGVjLWIzNmYtNjRmMTEzYzdmYjBkIiwidCI6ImFkODQwZTUyLTUzZDEtNDNiZS1hZmY1LWRlMDgzNDE0NjZkMSJ9)**
 
-
+<img width="1540" height="880" alt="image" src="https://github.com/user-attachments/assets/aaaf8a27-21b3-46d0-9eba-63fa8765f053" />
 
 ---
 
