@@ -12,7 +12,7 @@ By tracking key performance indicators (KPIs), the dashboard enables marketing t
 
 You can view and interact with the live dashboard here:
 
-**[Link to the Live Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiNGU1NGRkMDQtMTgyMy00ZGVjLWIzNmYtNjRmMTEzYzdmYjBkIiwidCI6ImFkODQwZTUyLTUzZDEtNDNiZS1hZmY1LWRlMDgzNDE0NjZkMSJ9](https://app.powerbi.com/view?r=eyJrIjoiNGU1NGRkMDQtMTgyMy00ZGVjLWIzNmYtNjRmMTEzYzdmYjBkIiwidCI6ImFkODQwZTUyLTUzZDEtNDNiZS1hZmY1LWRlMDgzNDE0NjZkMSJ9))**
+**[Link to the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGU1NGRkMDQtMTgyMy00ZGVjLWIzNmYtNjRmMTEzYzdmYjBkIiwidCI6ImFkODQwZTUyLTUzZDEtNDNiZS1hZmY1LWRlMDgzNDE0NjZkMSJ9)**
 
 
 
